@@ -1,0 +1,70 @@
+.color-box {
+    width: 250px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+    display:inline-block;
+  }
+
+.fluo-blue{
+    color:#34d3eb
+}
+.fluo-green{
+    color:#80eb34;
+}
+.fluo-yellow{
+    color:#ebe834
+}
+.font-garamond{
+    font-family: 'EB Garamond', serif;
+}
+.font-nanum-brush-scirpt{
+    font-family: 'Nanum Brush Script';
+}
+.font-jersey{
+    font-family:'Jersey 25 Charted'
+}
+.background-fluo-blue{
+    width: 80%;
+    height: 60px;
+    background-color: #34d3eb; /* Fill color for the rectangle */
+}
+.background-fluo-green{
+    width: 80%;
+    height: 60px;
+    background-color: #80eb34; /* Fill color for the rectangle */
+}
+.background-fluo-yellow{
+    width: 80%;
+    height: 60px;
+    background-color: #ebe834; /* Fill color for the rectangle */
+}
+.font-box {
+    width: 250;
+    border: 15px solid gray;
+    padding: 50px;
+    margin: 20px;
+}
+.container{
+    width: 250;
+    border: 5px solid rgb(170, 160, 160);
+    padding: 50px;
+    margin: 20px;
+}
+h1{
+    Font-weight: 700;
+    Font-size: 26px;
+    Font-family: 'Nanum Brush Script';
+}
+
+h2{
+    Font-weight: 400;
+    Font-size: 18px;
+    Font-family: 'EB Garamond', serif;
+}
+h3{
+    Font-weight: 400;
+    Font-size: 12px;
+    Font-family: 'Jersey 25 Charted';
+
+}
